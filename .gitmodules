@@ -1,0 +1,3 @@
+[submodule "log4cpp"]
+	path = log4cpp
+	url = https://github.com/robotics-at-maryland/log4cpp.git

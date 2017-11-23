@@ -1,0 +1,8 @@
+*.obj
+/LogExt/Proj/MSVC15.0/obj/LogExt-Debug/*.pdb
+/LogExt/Proj/MSVC15.0/obj/LogExt-Debug/*.idb
+/LogExt/Proj/MSVC15.0/obj/LogExt-Debug/LogExt.tlog/*.tlog
+/LogExt/Proj/MSVC15.0/obj/LogExt-Debug/*.pch
+/LogExt/Proj/MSVC15.0/obj/LogExt-Debug/*.log
+/LogExt/Proj/MSVC15.0/.vs
+/LogExt/Proj/MSVC15.0/obj
